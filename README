@@ -1,1 +1,4 @@
-The starting point for DPP's Lift examples and related work
+Forked from David Pollak's original Lift "Starting point"
+https://github.com/dpp/starting_point
+
+This version upgrades the project to SBT10.
